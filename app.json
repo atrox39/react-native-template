@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "simple-login",
+    "slug": "simple-login",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "simple-login"
+}
