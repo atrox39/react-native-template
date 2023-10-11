@@ -1,4 +1,4 @@
-package com.simplelogin;
+package com.adross;
 
 import android.os.Build;
 import android.os.Bundle;

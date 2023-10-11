@@ -81,9 +81,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.simplelogin"
+    namespace "com.adross"
     defaultConfig {
-        applicationId "com.simplelogin"
+        applicationId "com.adross"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

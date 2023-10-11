@@ -1,4 +1,4 @@
-package com.simplelogin;
+package com.adross;
 
 import android.app.Application;
 import android.content.res.Configuration;
